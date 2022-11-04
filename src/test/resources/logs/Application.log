@@ -1,0 +1,17 @@
+21/12/2017 15:51:53 devpinoyLogger Launching Chrome
+21/12/2017 15:52:10 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (2abaa51c34fedebcc117ae7982f6c106)] -> css selector: #header-account-menu]
+21/12/2017 15:52:15 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (2abaa51c34fedebcc117ae7982f6c106)] -> xpath: //*[contains(text(),'Sign In')]]
+21/12/2017 15:52:16 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (2abaa51c34fedebcc117ae7982f6c106)] -> css selector: #signin-loginid] entered value as : java@way2automation.com
+21/12/2017 15:52:16 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (2abaa51c34fedebcc117ae7982f6c106)] -> css selector: #signin-password] entered value as : Selenium@123
+21/12/2017 15:52:21 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (2abaa51c34fedebcc117ae7982f6c106)] -> css selector: #submitButton]
+21/12/2017 15:52:26 devpinoyLogger Launching Chrome
+21/12/2017 15:52:46 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> xpath: //*[starts-with(@id,'tab-flight-tab')]]
+21/12/2017 15:52:47 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: input[id^='flight-origin']] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+21/12/2017 15:52:48 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: input[id^='flight-destination']] entered value as : Seattle, WA, United States (SEA-Seattle - Tacoma Intl.)
+21/12/2017 15:52:48 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: #flight-departing] entered value as : 12/12/17
+21/12/2017 15:52:49 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: #flight-returning] entered value as : 14/12/2017
+21/12/2017 15:52:49 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: #flight-adults] entered value as : 2.0
+21/12/2017 15:52:49 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: #flight-children] entered value as : 2.0
+21/12/2017 15:52:49 devpinoyLogger Typing in an Element : [[[[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: .cols-nested.flight-date-fieldset.total-children-2]] -> id: flight-age-select-1] entered value as : 2.0
+21/12/2017 15:52:49 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> id: flight-age-select-2] entered value as : 2.0
+21/12/2017 15:52:56 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (68cda19ce498676ea61620c3df945bf2)] -> css selector: button[type='submit']]
